@@ -1,0 +1,146 @@
+[
+    {
+        "outputFile": "G:\\Users\\bishwajit\\Desktop\\final roads api\\roads-api-samples-master\\G:\\Users\\bishwajit\\Desktop\\under test\\roads-api-samples-master\\app\\build\\intermediates\\res\\merged\\debug\\values-port\\values-port.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "G:\\Users\\bishwajit\\Desktop\\final roads api\\roads-api-samples-master\\G:\\Users\\bishwajit\\Desktop\\under test\\roads-api-samples-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-port\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 55,
+                        "endOffset": 107
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "G:\\Users\\bishwajit\\Desktop\\final roads api\\roads-api-samples-master\\G:\\jugnoo\\26th may\\roads-api-samples-master\\app\\build\\intermediates\\res\\merged\\debug\\values-port\\values-port.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "G:\\Users\\bishwajit\\Desktop\\final roads api\\roads-api-samples-master\\G:\\jugnoo\\26th may\\roads-api-samples-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-port\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 55,
+                        "endOffset": 107
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "G:\\Users\\bishwajit\\Desktop\\final roads api\\roads-api-samples-master\\app\\build\\intermediates\\res\\merged\\debug\\values-port\\values-port.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "G:\\Users\\bishwajit\\Desktop\\final roads api\\roads-api-samples-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-port\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 55,
+                        "endOffset": 107
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "G:\\jugnoo\\final roads api\\final roads api\\roads-api-samples-master\\app\\build\\intermediates\\res\\merged\\debug\\values-port\\values-port.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "G:\\jugnoo\\final roads api\\final roads api\\roads-api-samples-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-port\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 55,
+                        "endOffset": 107
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "G:\\Users\\bishwajit\\Desktop\\final roads api\\roads-api-samples-master\\G:\\Users\\bishwajit\\Downloads\\roads-api-samples-master\\app\\build\\intermediates\\res\\merged\\debug\\values-port\\values-port.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "G:\\Users\\bishwajit\\Desktop\\final roads api\\roads-api-samples-master\\G:\\Users\\bishwajit\\Downloads\\roads-api-samples-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-port\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 55,
+                        "endOffset": 107
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "G:\\Users\\bishwajit\\Desktop\\final roads api\\roads-api-samples-master\\G:\\Users\\bishwajit\\Desktop\\roads-api-samples-master\\app\\build\\intermediates\\res\\merged\\debug\\values-port\\values-port.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "G:\\Users\\bishwajit\\Desktop\\final roads api\\roads-api-samples-master\\G:\\Users\\bishwajit\\Desktop\\roads-api-samples-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-port\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 55,
+                        "endOffset": 107
+                    }
+                }
+            }
+        ]
+    }
+]

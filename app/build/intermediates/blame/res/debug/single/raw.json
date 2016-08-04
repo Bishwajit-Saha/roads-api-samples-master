@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "G:\\Users\\bishwajit\\Desktop\\final roads api\\roads-api-samples-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gpx_data.xml",
+        "source": "G:\\Users\\bishwajit\\Desktop\\final roads api\\roads-api-samples-master\\app\\src\\main\\res\\raw\\gpx_data.xml"
+    },
+    {
+        "merged": "G:\\Users\\bishwajit\\Desktop\\final roads api\\roads-api-samples-master\\G:\\Users\\bishwajit\\Downloads\\roads-api-samples-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "G:\\Users\\bishwajit\\Desktop\\final roads api\\roads-api-samples-master\\G:\\Users\\bishwajit\\Downloads\\roads-api-samples-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "G:\\Users\\bishwajit\\Desktop\\final roads api\\roads-api-samples-master\\G:\\Users\\bishwajit\\Desktop\\under test\\roads-api-samples-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gpx_data.xml",
+        "source": "G:\\Users\\bishwajit\\Desktop\\final roads api\\roads-api-samples-master\\G:\\Users\\bishwajit\\Desktop\\under test\\roads-api-samples-master\\app\\src\\main\\res\\raw\\gpx_data.xml"
+    },
+    {
+        "merged": "G:\\Users\\bishwajit\\Desktop\\final roads api\\roads-api-samples-master\\G:\\Users\\bishwajit\\Desktop\\roads-api-samples-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gpx_data.xml",
+        "source": "G:\\Users\\bishwajit\\Desktop\\final roads api\\roads-api-samples-master\\G:\\Users\\bishwajit\\Desktop\\roads-api-samples-master\\app\\src\\main\\res\\raw\\gpx_data.xml"
+    },
+    {
+        "merged": "G:\\Users\\bishwajit\\Desktop\\final roads api\\roads-api-samples-master\\G:\\jugnoo\\26th may\\roads-api-samples-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gpx_data.xml",
+        "source": "G:\\Users\\bishwajit\\Desktop\\final roads api\\roads-api-samples-master\\G:\\jugnoo\\26th may\\roads-api-samples-master\\app\\src\\main\\res\\raw\\gpx_data.xml"
+    },
+    {
+        "merged": "G:\\Users\\bishwajit\\Desktop\\final roads api\\roads-api-samples-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "G:\\Users\\bishwajit\\Desktop\\final roads api\\roads-api-samples-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "G:\\jugnoo\\final roads api\\final roads api\\roads-api-samples-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "G:\\jugnoo\\final roads api\\final roads api\\roads-api-samples-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "G:\\Users\\bishwajit\\Desktop\\final roads api\\roads-api-samples-master\\G:\\jugnoo\\26th may\\roads-api-samples-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "G:\\Users\\bishwajit\\Desktop\\final roads api\\roads-api-samples-master\\G:\\jugnoo\\26th may\\roads-api-samples-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "G:\\Users\\bishwajit\\Desktop\\final roads api\\roads-api-samples-master\\G:\\Users\\bishwajit\\Desktop\\under test\\roads-api-samples-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "G:\\Users\\bishwajit\\Desktop\\final roads api\\roads-api-samples-master\\G:\\Users\\bishwajit\\Desktop\\under test\\roads-api-samples-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "G:\\Users\\bishwajit\\Desktop\\final roads api\\roads-api-samples-master\\G:\\Users\\bishwajit\\Downloads\\roads-api-samples-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gpx_data.xml",
+        "source": "G:\\Users\\bishwajit\\Desktop\\final roads api\\roads-api-samples-master\\G:\\Users\\bishwajit\\Downloads\\roads-api-samples-master\\app\\src\\main\\res\\raw\\gpx_data.xml"
+    },
+    {
+        "merged": "G:\\Users\\bishwajit\\Desktop\\final roads api\\roads-api-samples-master\\G:\\Users\\bishwajit\\Desktop\\roads-api-samples-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "G:\\Users\\bishwajit\\Desktop\\final roads api\\roads-api-samples-master\\G:\\Users\\bishwajit\\Desktop\\roads-api-samples-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "G:\\jugnoo\\final roads api\\final roads api\\roads-api-samples-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gpx_data.xml",
+        "source": "G:\\jugnoo\\final roads api\\final roads api\\roads-api-samples-master\\app\\src\\main\\res\\raw\\gpx_data.xml"
+    }
+]
